@@ -2,6 +2,8 @@
 
 Using Ableton push with Overtone and Clojure
 
+![Push](http://s14.postimg.org/zehl69j5t/push.jpg)
+
 ## License
 
 Copyright © 2013 Joseph Wilk
